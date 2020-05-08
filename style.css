@@ -1,0 +1,26 @@
+.intro{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.heading{
+    text-align: center;
+    color: aqua;
+}
+div,header{
+   background-color: blueviolet;
+}
+ul{
+   display: inline-block;
+   height:25px;
+   background-color: cornsilk;
+   margin: 5px;
+   padding: 5px;
+
+}
+li {
+   display: inline;
+   padding: 0.5em;}
+   logoo {
+       align-content: center;
+       width:50%;
+   }
